@@ -189,7 +189,7 @@ Para trabajar con los proyectos de este repositorio necesitas tener instalado:
 💡 **Nota:** Este material está pensado como apoyo para el aprendizaje práctico de técnicas y herramientas para el desarrollo de software de calidad, desde testing hasta integración continua.
 
 **Enlaces del repositorio:**
-- 🔗 Repositorio Software Heritage: https://archive.softwareheritage.org/badge/swh:1:dir:65d1132ee25fe46f93baf1cc93aef7be68e8eaca/
+- 🔗 Repositorio Software Heritage: https://archive.softwareheritage.org/swh:1:dir:65d1132ee25fe46f93baf1cc93aef7be68e8eaca
 - 🔗 Repositorio GitHub: https://github.com/codigus-formacion/ais
 
 **Recursos adicionales:**
