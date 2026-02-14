@@ -1,6 +1,6 @@
 # Ampliación de Ingeniería del Software (AIS)
 
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:65d1132ee25fe46f93baf1cc93aef7be68e8eaca/)](https://archive.softwareheritage.org/swh:1:dir:65d1132ee25fe46f93baf1cc93aef7be68e8eaca;origin=https://github.com/codigus-formacion/ais;visit=swh:1:snp:cea4c71631793456d8ed31fd4b52b46cbefcf565;anchor=swh:1:rev:5e5d3f43b04418cac0552d8b668846945b31c8ac)
+[![SWH](https://archive.softwareheritage.org/swh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad)](https://archive.softwareheritage.org/wh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad;origin=https://github.com/codigus-formacion/ais;visit=swh:1:snp:ae5800f2738d5db1bfb39af45268a28a3fbf7622)
 
 
 
@@ -189,7 +189,7 @@ Para trabajar con los proyectos de este repositorio necesitas tener instalado:
 💡 **Nota:** Este material está pensado como apoyo para el aprendizaje práctico de técnicas y herramientas para el desarrollo de software de calidad, desde testing hasta integración continua.
 
 **Enlaces del repositorio:**
-- 🔗 Repositorio Software Heritage: https://archive.softwareheritage.org/swh:1:dir:65d1132ee25fe46f93baf1cc93aef7be68e8eaca
+- 🔗 Repositorio Software Heritage: https://archive.softwareheritage.org/swh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad
 - 🔗 Repositorio GitHub: https://github.com/codigus-formacion/ais
 
 **Recursos adicionales:**
