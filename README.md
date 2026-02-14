@@ -1,7 +1,6 @@
 # Ampliación de Ingeniería del Software (AIS)
 
-[![SWH](https://archive.softwareheritage.org/swh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad)](https://archive.softwareheritage.org/wh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad;origin=https://github.com/codigus-formacion/ais;visit=swh:1:snp:ae5800f2738d5db1bfb39af45268a28a3fbf7622)
-
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad/)](https://archive.softwareheritage.org/swh:1:rev:89511c04882c581f952591eb8aa03a92b7cc7fad;origin=https://github.com/codigus-formacion/ais;visit=swh:1:snp:ae5800f2738d5db1bfb39af45268a28a3fbf7622)
 
 
 Este repositorio contiene los ejemplos y ejercicios utilizados en la asignatura **Ampliación de Ingeniería del Software**, perteneciente al **Grado en Ingeniería Informática** de la ETSII URJC.
